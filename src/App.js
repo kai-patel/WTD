@@ -15,7 +15,7 @@ class App extends React.Component {
         },
         {
             todoText: "3",
-            complete: false,
+            complete: true,
         },
     ];
 
