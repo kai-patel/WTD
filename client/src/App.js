@@ -1,4 +1,4 @@
-import React from "react";
+import React from "./node_modules/react";
 import styles from "./app.module.css";
 
 import TodoList from "./components/TodoList/TodoList";
